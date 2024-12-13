@@ -4,6 +4,6 @@ This repository contains an example of an NFT smart contract in Rust and tutoria
 
 ## Repositories
 
-- [NFT Smart Contract in Rust](NFT-example)
-- [NFT Contract in Rust Tutorial](nft-tutorial)
-- [NFT Contract in JavaScript Tutorial](nft-tutorial-js)
+- [NFT Smart Contract in Rust](https://github.com/near-examples/NFT)
+- [NFT Contract in Rust Tutorial](https://github.com/near-examples/nft-tutorial)
+- [NFT Contract in JavaScript Tutorial](https://github.com/near-examples/nft-tutorial-js)
